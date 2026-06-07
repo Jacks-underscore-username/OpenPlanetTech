@@ -1,6 +1,6 @@
 {
   "name": "open-planet-tech",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "title": "Open planet tech",
   "author": "jacks-underscore-username",
   "description": "Adds a keybind to open the tech tree to your current planets tech tree node",
